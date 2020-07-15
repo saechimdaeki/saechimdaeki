@@ -6,9 +6,9 @@
 
 <p>
   <em>
-    I am a developer who is interested in <b>Spring Framework</b> and <b>Android.</b> <img src="https://3.bp.blogspot.com/-_xtNF6uenMg/Wp4Mq-EUpeI/AAAAAAALNj8/HmLnP5AqiwwdIko1am9jgCtVYbxlsrkywCLcBGAs/s1600/AF005805_01.gif" width="45px"> <br>
-    I like to <b>develop</b> many interesting things.(I like to develop many interesting things.(So far, most have been developing Android mobile apps.) <img src="https://thumbs.gfycat.com/SickSnarlingBrownbutterfly-size_restricted.gif" width="45px"> <br>
-    The main languages are <b>Java</b> and <b>Kotlin</b>, and other languages can be used at basic levels. <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="45px">
+    I am a developer who is interested in <b>Spring Framework</b> and <b>Android.</b> <img src="https://3.bp.blogspot.com/-_xtNF6uenMg/Wp4Mq-EUpeI/AAAAAAALNj8/HmLnP5AqiwwdIko1am9jgCtVYbxlsrkywCLcBGAs/s1600/AF005805_01.gif" width="35px"> <br>
+    I like to <b>develop</b> many interesting things.(I like to develop many interesting things.(So far, most have been developing Android mobile apps.) <img src="https://thumbs.gfycat.com/SickSnarlingBrownbutterfly-size_restricted.gif" width="35px"> <br>
+    The main languages are <b>Java</b> and <b>Kotlin</b>, and other languages can be used at basic levels. <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="35px">
   </em>  
 </p>
 
