@@ -13,7 +13,7 @@
   </em>  
 </p>
 
-![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true)
+![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![naverblog](https://img.shields.io/badge/naver-blog-badge)](http://blog.naver.com/anima94)
 
