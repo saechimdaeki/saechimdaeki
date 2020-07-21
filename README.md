@@ -1,4 +1,4 @@
-# saechimdaeki <img src="https://i.pinimg.com/originals/ed/09/d4/ed09d44b3d3f40b2fd98f3583fa0351d.gif" width="45px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaechimdaeki)](https://hits.seeyoufarm.com)
+# saechimdaeki
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saechimdaeki)
 [![Gmail Badge](https://img.shields.io/badge/-anima94@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anima94@kakao.com)](mailto:anima94@kakao.com)
