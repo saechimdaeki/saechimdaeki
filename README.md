@@ -1,9 +1,7 @@
-# saechimdaeki
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=saechimdaeki&fontSize=90)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saechimdaeki)
 [![Gmail Badge](https://img.shields.io/badge/-anima94@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anima94@kakao.com)](mailto:anima94@kakao.com)
 [![naverblog](https://img.shields.io/badge/naver-blog-badge)](http://blog.naver.com/anima94)
-
 
 ## <img src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif" width="200px">
 ### Hello world!&nbsp;<img src="https://thumbs.gfycat.com/BareHeavenlyBluefintuna-size_restricted.gif" width="35px">
