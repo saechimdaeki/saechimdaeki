@@ -14,7 +14,7 @@
   </em>  
 </p>
 
-![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
 [![saechimdaeki's wakatime stats](https://git-stats.willianrod.com/api/wakatime?username=saechimdaeki&bg_color=ffffff&hide_border=true)](https://wakatime.com/@saechimdaeki)
 
 
