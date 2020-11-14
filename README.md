@@ -15,8 +15,10 @@
 </p>
 
 ![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
-[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94&201113)](https://solved.ac/anima94) 
+
 [![saechimdaeki's wakatime stats](https://git-stats.willianrod.com/api/wakatime?username=saechimdaeki&custom_title=saechimdaeki%27s%20week%20coding_time&bg_color=666060&hide_border=true)](https://wakatime.com/@saechimdaeki)
+
+[![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94&201113)](https://solved.ac/anima94) 
 
 
 
