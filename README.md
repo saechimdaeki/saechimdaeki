@@ -3,6 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saechimdaeki)
 [![Gmail Badge](https://img.shields.io/badge/-anima94@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anima94@kakao.com)](mailto:anima94@kakao.com)
 [![naverblog](https://img.shields.io/badge/naver-blog-badge)](http://blog.naver.com/anima94)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saechimdaeki&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hello world!&nbsp;<img src="https://thumbs.gfycat.com/BareHeavenlyBluefintuna-size_restricted.gif" width="35px">
 
@@ -16,7 +17,6 @@
 
 ![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
 
-[![saechimdaeki's wakatime stats](https://git-stats.willianrod.com/api/wakatime?username=saechimdaeki&custom_title=saechimdaeki%27s%20week%20coding_time&bg_color=666060&hide_border=true)](https://wakatime.com/@saechimdaeki)
 
 [![SolvedAC tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94&201113)](https://solved.ac/anima94) 
 
