@@ -10,8 +10,7 @@
 <p>
   <em>
     I am a developer who is interested in <b>Spring Framework</b> and <b>Android.</b> <img src="https://camo.githubusercontent.com/5806488e6563b58f90ece7330731dc4bac7b8060/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d51484743706e574b2d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f656172732e67696625334672617725334474727565" width="35px"> <br>
-    I like to <b>develop</b> many interesting things(So far, most have been developing Android mobile apps.) <img src="https://thumbs.gfycat.com/SickSnarlingBrownbutterfly-size_restricted.gif" width="35px"> <br>
-    The main languages are <b>Java</b> and <b>Kotlin</b>, and other languages can be used at basic levels. <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="35px">
+    currently serving as a system <b>backend developer.<b>
   </em>  
 </p>
 
