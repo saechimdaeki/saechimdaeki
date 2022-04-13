@@ -14,7 +14,7 @@
   </em>  
 </p>
 
-![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&include_all_commits=true)
+![saechimdaeki's github stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&show_icons=true&theme=radical&include_all_commits=true)
 
 
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94)](https://solved.ac/anima94) 
