@@ -1,9 +1,9 @@
 
 # saechimdaeki  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saechimdaeki)
-[![Gmail Badge](https://img.shields.io/badge/-anima94@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anima94@kakao.com)](mailto:anima94@kakao.com)
-[![naverblog](https://img.shields.io/badge/naver-blog-badge)](http://blog.naver.com/anima94)
-
+<a href="https://github.com/saechimdaeki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> &nbsp;
+<a href="mailto:aniima94@kakao.com"><img src="https://img.shields.io/badge/-anima94@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anima94@kakao.com" width=150px height=28px/> &nbsp; <a href="https://blog.naver.com/anima94"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/> &nbsp; 
+<a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%B1-%EA%B9%80-3a6bb0185/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
 ### Hello world!&nbsp;<img src="https://thumbs.gfycat.com/BareHeavenlyBluefintuna-size_restricted.gif" width="35px">
 
