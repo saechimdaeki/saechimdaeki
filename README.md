@@ -15,7 +15,7 @@
 </p>
 
       
-![saechimdaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_cions=true)
+![saechimdaeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=saechimdaeki&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true&show_cions=true)
       
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94)](https://solved.ac/anima94) 
 
