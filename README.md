@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/%EC%A4%80%EC%84%B1-%EA%B9%80-3a6bb0185/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-### Hello world!&nbsp;<img src="https://thumbs.gfycat.com/BareHeavenlyBluefintuna-size_restricted.gif" width="35px">
+### Hello world!&nbsp;<img src="https://thumbs.gfycat.com/BareHeavenlyBluefintuna-size_restricted.gif" width="35px" height="35x">
 
 <p>
   <em>
