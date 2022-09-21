@@ -10,7 +10,9 @@
 <p>
   <em>
     I am a developer who is interested in <b>Spring Framework</b> and <b>Android.</b> <img src="https://camo.githubusercontent.com/5806488e6563b58f90ece7330731dc4bac7b8060/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646576706f73742f696d6167652f66657463682f732d2d51484743706e574b2d2d2f68747470733a2f2f6769746875622e636f6d2f6e70656e7472656c2f6f63746f636c697070792f626c6f622f6d61737465722f676966732f656172732e67696625334672617725334474727565" width="35px"> <br>
-    currently serving as a system <b>backend developer.<b>
+    currently serving as a  <b>backEnd developer at 11ST<b>
+    <br>
+    Also, I am working as a <b>Spring backEnd instructor<b> as a side job.
   </em>  
 </p>
 
