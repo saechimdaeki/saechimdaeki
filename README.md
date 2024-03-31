@@ -21,12 +21,12 @@
 
 
 
-<!--
-### Work Experience
-- backend-developer at krafton (2024.02 ~)
-- backend-developer at 11ST (2022.04 ~ 2024.01)
-- backend-developer at LGUPLUS (2020.12 ~ 2022.04)
--->
+
+### Work Experience (Ordered by latest)
+- GPP Team backend-developer at krafton 
+- Search Development Team backend-developer at 11ST 
+- Provisioning Team backend-developer at LGUPLUS
+
 
 **Languages and Tools:**  
 
