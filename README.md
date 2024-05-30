@@ -10,8 +10,6 @@
     I am a developer who is interested in <b>Spring Framework</b> and <b>Android.</b> <img src="https://github.com/saechimdaeki/saechimdaeki/assets/40031858/52022cb7-3757-4272-90b0-eae248358cd4" width="25px"> <br>
     currently serving as a  <b>backEnd developer at KRAFTON<b>
     <br>
-    Also, I am working as a <b>Spring backEnd instructor<b> as a side job. (2022.07~ currently) <BR/>
-    I also provide mentoring for job-seeking students and actively engage as a mentor for bootcamp projects
   </em>  
 </p>
 
