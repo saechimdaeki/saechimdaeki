@@ -19,6 +19,14 @@
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94)](https://solved.ac/anima94) 
 
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/saechimdaeki"
+    width="500"
+    height="175"
+  />
+</a>
+  
 
 
 ### Work Experience (Ordered by latest)
