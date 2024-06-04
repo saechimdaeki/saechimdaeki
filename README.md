@@ -19,16 +19,22 @@
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94)](https://solved.ac/anima94) 
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/saechimdaeki"
-    width="500"
-    height="175"
-  />
-</a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/saechimdaeki"/>
+  <img
+    src="https://render.gitanimals.org/lines/saechimdaeki?pet-id=585637593960769445"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/saechimdaeki"
+  width="600"
+  height="300"
+/>
 </a>
   
 
