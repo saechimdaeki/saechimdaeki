@@ -39,10 +39,11 @@
   
 
 
-### Work Experience (Ordered by latest)
-- `GPP Team` backend-developer at krafton 
-- `Search Development Team` backend-developer at 11ST 
+### Work Experience
 - `Provisioning Team` backend-developer at LGUPLUS
+- `Search Development Team` backend-developer at 11ST 
+- `Global Publishing Platform Team` backend-developer at krafton 
+
 
 
 **Languages and Tools:**  
