@@ -19,24 +19,20 @@
 [![SolvedAC2tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=anima94)](https://solved.ac/anima94) 
 
 
-### Work Experience
+## Work Experience
 - `Provisioning Team` backend-developer at LGUPLUS
 - `Search Development Team` backend-developer at 11ST 
 - `Global Publishing Platform Team` backend-developer at krafton 
 
 ### Teaching & Mentoring
+- **Instructor — Java & Spring @ Comento**  
+  Delivered curriculum on Spring Boot, JPA, REST API design, testing, caching, and intro to Kafka/Redis.  
 
-- **Instructor — Java & Spring @ Comento**
-  - Designed and delivered hands-on curriculum: Spring Boot, REST API design, transaction management, JPA best practices, testing strategy, caching, and an introduction to messaging with Kafka/Redis.
-  - Led code labs on layered architecture, validation & exception handling, performance tuning (query and cache), and basic monitoring/observability.
+- **Mentor — Spring @ Sparta Coding Club**  
+  Guided code reviews, domain/API design, and best practices (idempotency, retry/outbox, Redis lock, logging/tracing).  
 
-- **Mentor — Spring @ Sparta Coding Club**
-  - 1:1 and small-group mentoring: code reviews & PR feedback, domain modeling, API versioning and contract-first design, deployment checklists.
-  - Coached practical patterns: idempotency, retry/backoff with outbox, distributed locks with Redis, and AOP-based logging/tracing.
-
-- **Project Mentor — Goorm × Kakao**
-  - Guided capstone teams end-to-end: requirements → ERD/schema → service decomposition → infrastructure setup.
-  - Review focus: scalability under traffic assumptions, error/retry scenarios, and operations (logs, alerts, dashboards).
+- **Project Mentor — Goorm × Kakao**  
+  Supported capstone teams on design, scalability, error handling, and ops (logs, alerts, dashboards).  
 
 **Languages and Tools:**  
 
