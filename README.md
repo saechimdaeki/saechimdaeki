@@ -24,6 +24,7 @@
 - `Search Development Team` backend-developer at 11ST 
 - `Global Publishing Platform Team` backend-developer at krafton 
 
+<!--
 ### Teaching & Mentoring
 - **Instructor — Java & Spring @ Comento**  
   Delivered curriculum on Spring Boot, JPA, REST API design, testing, caching, and intro to Kafka/Redis.  
@@ -33,7 +34,7 @@
 
 - **Project Mentor — Goorm × Kakao**  
   Supported capstone teams on design, scalability, error handling, and ops (logs, alerts, dashboards).  
-
+-->
 **Languages and Tools:**  
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
